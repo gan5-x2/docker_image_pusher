@@ -11,3 +11,4 @@ tomcat:9.0.102-jdk21-corretto
 mongodb/atlas:v1.41.1-2025-03-29
 nginx:stable-perl
 centos:centos7.9.2009
+busybox:unstable-glibc
