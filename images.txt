@@ -14,3 +14,4 @@ centos:centos7.9.2009
 busybox:unstable-glibc
 httpd:latest
 httpd:2.4.63
+redis:latest
