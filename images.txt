@@ -17,3 +17,4 @@ httpd:2.4.63
 redis:latest
 mysql:oracle
 mysql:latest
+haproxy:2.4
