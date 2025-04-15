@@ -19,6 +19,6 @@ mysql:oracle
 mysql:latest
 haproxy:2.4
 gliderlabs/registrator:master
-gliderlabs/registrator:edge
+
 
 
