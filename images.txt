@@ -18,5 +18,7 @@ redis:latest
 mysql:oracle
 mysql:latest
 haproxy:2.4
-gliderlabs/registrator:latest
+gliderlabs/registrator:master
+gliderlabs/registrator:edge
+
 
