@@ -20,5 +20,6 @@ mysql:latest
 haproxy:2.4
 gliderlabs/registrator:master
 uifd/ui-for-docker
+portainer/portainer:latest
 
 
