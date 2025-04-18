@@ -26,5 +26,4 @@ alpine:latest
 rethinkdb:latest
 swarm:latest
 bitnami/etcd:latest
-shipyard/docker-proxy:latest
 shipyard/shipyard:latest
