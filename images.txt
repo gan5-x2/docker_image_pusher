@@ -22,4 +22,9 @@ gliderlabs/registrator:master
 uifd/ui-for-docker
 portainer/portainer:latest
 guyton/centos6:latest
-
+alpine:latest
+rethinkdb:latest
+swarm:latest
+microbox/etcd:latest
+shipyard/docker-proxy:latest
+shipyard/shipyard:latest
