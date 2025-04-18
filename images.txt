@@ -25,6 +25,6 @@ guyton/centos6:latest
 alpine:latest
 rethinkdb:latest
 swarm:latest
-microbox/etcd:latest
+bitnami/etcd:latest
 shipyard/docker-proxy:latest
 shipyard/shipyard:latest
