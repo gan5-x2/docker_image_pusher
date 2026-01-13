@@ -29,3 +29,4 @@ bitnami/etcd:latest
 shipyard/shipyard:latest
 rancher/coreos-flannel:v0.12.0-amd64
 collenzhao/pod-infrastructure:latest
+traefik:v2.11
