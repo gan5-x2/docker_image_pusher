@@ -12,4 +12,4 @@ centos:centos7.9.2009
 busybox:unstable-glibc
 httpd:latest
 traefik:v2.11.34
-openclaw/openclaw:latest
+justlikemaki/openclaw-docker-cn-im:latest
