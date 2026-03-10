@@ -14,4 +14,4 @@ httpd:latest
 traefik:v2.11.34
 justlikemaki/openclaw-docker-cn-im:latest
 node:22-trixie
-openclaw/openclaw:2026-stable
+
