@@ -1,1 +1,14 @@
+# .github/workflows/hello.yml
 
+name: Hello World                  # Workflow 的名称，显示在 GitHub Actions 页面上
+
+on: push                           # 触发条件：任意分支有代码推送时触发
+
+jobs:                              # 定义所有 Job
+  say-hello:                       # Job 的 ID（自定义名称，同一 Workflow 内唯一）
+    name: 打印问候语                 # Job 的显示名称（可选，不填则显示 Job ID）
+    runs-on: ubuntu-latest         # 指定运行环境：使用 GitHub 提供的最新版 Ubuntu 虚拟机
+
+    steps:                         # 该 Job 下的所有步骤，按顺序执行
+      - name: 打印消息               # Step 的名称（可选，用于在日志中标识该步骤）
+        run: echo "Hello, GitHub Actions！"   # run：直接执行 Shell 命令
